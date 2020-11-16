@@ -1,0 +1,5 @@
+module.exports = {
+  accountSid: 'ACXXXXXXXXXXXXXXXXXXXX',
+  appSid: 'APXXXXXXXXXXXXXXXXXXXXX',
+  authToken: 'XXXXXXXXXXXXXXXXXXXXXXX',
+};
